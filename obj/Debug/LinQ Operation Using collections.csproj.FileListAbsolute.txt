@@ -1,0 +1,15 @@
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections.csprojAssemblyReference.cache
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\MainWindow.g.cs
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\App.g.cs
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections_MarkupCompile.cache
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections_MarkupCompile.lref
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\bin\Debug\LinQ Operation Using collections.exe.config
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\bin\Debug\LinQ Operation Using collections.exe
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\bin\Debug\LinQ Operation Using collections.pdb
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\MainWindow.baml
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections.g.resources
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ_Operation_Using_collections.Properties.Resources.resources
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections.csproj.GenerateResource.cache
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections.exe
+C:\Users\OWNER\source\repos\LinQ Operation Using collections\LinQ Operation Using collections\obj\Debug\LinQ Operation Using collections.pdb
